@@ -31,5 +31,6 @@ This document is dedicated to all the blog posts, helpful sites, tips and tricks
 26. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 27. [GitHub Learning Lab](https://lab.github.com/courses)
 28. [What is Open Source](https://github.com/diy/open-sourcerer/blob/master/script.md)
+29. [GitHub For Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
 Keep adding more links, that you find helpful.
